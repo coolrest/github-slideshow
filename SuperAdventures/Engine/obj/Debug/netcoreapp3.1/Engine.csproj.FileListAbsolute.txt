@@ -1,0 +1,13 @@
+C:\Users\oo\source\repos\SuperAdventures\Engine\bin\Debug\netcoreapp3.1\Engine.exe
+C:\Users\oo\source\repos\SuperAdventures\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\Users\oo\source\repos\SuperAdventures\Engine\bin\Debug\netcoreapp3.1\Engine.runtimeconfig.json
+C:\Users\oo\source\repos\SuperAdventures\Engine\bin\Debug\netcoreapp3.1\Engine.runtimeconfig.dev.json
+C:\Users\oo\source\repos\SuperAdventures\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\oo\source\repos\SuperAdventures\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\oo\source\repos\SuperAdventures\Engine\obj\Debug\netcoreapp3.1\Engine.csprojAssemblyReference.cache
+C:\Users\oo\source\repos\SuperAdventures\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\oo\source\repos\SuperAdventures\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\oo\source\repos\SuperAdventures\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\oo\source\repos\SuperAdventures\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\Users\oo\source\repos\SuperAdventures\Engine\obj\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\oo\source\repos\SuperAdventures\Engine\obj\Debug\netcoreapp3.1\Engine.genruntimeconfig.cache
